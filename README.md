@@ -1,2 +1,2 @@
 # hello-world
-alpha repository
+beta repository
